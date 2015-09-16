@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 部執異論
+#+DATE: 2015-08-30 21:55:08.217085
+#+PROPERTY: JUAN 0
